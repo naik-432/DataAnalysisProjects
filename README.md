@@ -1,4 +1,4 @@
-# To download SQL dump files and other files
+# This is my data analytics projects repository.
 
 
 
